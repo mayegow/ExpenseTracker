@@ -6,5 +6,5 @@ This project was released with React Js
 
 # How to run project
 
-$ npm install
-$ npm run dev
+    $ npm install
+    $ npm run dev
